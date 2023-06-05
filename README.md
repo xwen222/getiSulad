@@ -11,7 +11,7 @@ iSulad一键安装脚本+适配海外源
 
 ## Architecture
 
-`iSulad`架构的相关介绍请查看：[architecture](https://github.com/openeuler-mirror/iSulad/docs/design/architecture_zh.md)。
+`iSulad`架构的相关介绍请查看：[architecture](https://github.com/openeuler-mirror/iSulad/tree/master/docs/design/architecture_zh.md)。
 
 ## Getting Started
 
