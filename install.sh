@@ -17,7 +17,7 @@ mkdir -p $BUILD_DIR
 # build lxc
 cd $BUILD_DIR
 git clone https://github.com/xwen222/mirror_src-openeuler_lxc.git
-cd lxc
+cd mirror_src-openeuler_lxc
 ./apply-patches
 cd lxc-4.0.3
 ./autogen.sh
@@ -28,7 +28,7 @@ make install
 # build lcr
 cd $BUILD_DIR
 git clone https://github.com/xwen222/mirror_openeuler_lcr.git
-cd lcr
+cd mirror_openeuler_lcr
 mkdir build
 cd build
 cmake ..
@@ -38,7 +38,7 @@ make install
 # build and install clibcni
 cd $BUILD_DIR
 git clone https://github.com/xwen222/mirror_openeuler_clibcni.git
-cd clibcni
+cd mirror_openeuler_clibcni
 mkdir build
 cd build
 cmake ..
@@ -48,7 +48,7 @@ make install
 # build and install iSulad
 cd $BUILD_DIR
 git clone https://github.com/xwen222/mirror_openeuler_iSulad.git
-cd iSulad
+cd mirror_openeuler_iSulad
 mkdir build
 cd build
 cmake ..
