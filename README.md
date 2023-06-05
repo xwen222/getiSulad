@@ -11,11 +11,11 @@ iSulad一键安装脚本+适配海外源
 
 ## Architecture
 
-`iSulad`架构的相关介绍请查看：[architecture](./docs/design/architecture_zh.md)。
+`iSulad`架构的相关介绍请查看：[architecture](https://github.com/openeuler-mirror/iSulad/docs/design/architecture_zh.md)。
 
 ## Getting Started
 
-- [一键脚本](wget --no-check-certificate https://raw.githubusercontent.com/xwen222/isulad_script/master/install.sh && chmod +x ./install.sh && ./install.sh)
+- [一键脚本]  wget --no-check-certificate https://raw.githubusercontent.com/xwen222/isulad_script/master/install.sh && chmod +x ./install.sh && ./install.sh
 
 - [开发指南](https://docs.openeuler.org/zh/docs/22.03_LTS/docs/Container/container.html)
 
