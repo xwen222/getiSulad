@@ -1,0 +1,29 @@
+isulad_script License
+=================
+
+Copyright (c) xwen222@github.com and others. All rights reserved.
+SPDX-License-Identifier: MulanPSL-2.0
+
+isulad_script software is licensed under the Mulan Permissive Software License，Version 2.
+
+See http://license.coscl.org.cn/MulanPSL2 for the MulanPSL-2.0 license text.
+
+Third-party software licenses
+=============================
+isulad_script embeds third-party free and open source software packages under various
+licenses.
+
+=============================
+Notice for gitee.com/openeuler/iSulad:
+
+See ./third-party/LICENSE-iSulad
+
+=============================
+Notice for github.com/nodejs/http-parser:
+
+See ./third-party/LICENSE-http-parser
+
+=============================
+Notice for github.com/kubernetes/cri-api:
+
+See ./third-party/LICENSE-cri-api
