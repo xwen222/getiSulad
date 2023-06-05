@@ -1,8 +1,7 @@
 # isulad_script
 iSulad一键安装脚本+适配海外源
-- [English version](README.md)
 
-<img src="https://github.com/openeuler-mirror/iSulad/logo/iSulad-logo.svg" alt="iSulad" style="max-width: 50%;" />
+<img src="https://github.com/openeuler-mirror/iSulad/blob/master/logo/iSulad-logo.svg" alt="iSulad" style="max-width: 50%;" />
 
 <a href="https://github.com/openeuler-mirror/iSulad"><img src="https://img.shields.io/badge/github-iSulad-blue"/></a> ![license](https://img.shields.io/badge/license-Mulan%20PSL%20v2-blue) ![language](https://img.shields.io/badge/language-C%2FC%2B%2B-blue)
 
