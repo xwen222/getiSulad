@@ -17,6 +17,7 @@ mkdir -p $BUILD_DIR
 # build lxc
 cd $BUILD_DIR
 git clone https://github.com/xwen222/mirror_src-openeuler_lxc.git
+git config --global --add safe.directory /tmp/build_isulad/mirror_src-openeuler_lxc/lxc-4.0.3
 cd mirror_src-openeuler_lxc
 ./apply-patches
 cd lxc-4.0.3
