@@ -27,21 +27,21 @@ iSulad一键安装脚本+适配海外源
 
 - 10个容器串行操作的情况下，`iSula`与`docker`、`podman`的性能对比雷达图如下：
 
-<img src="https://github.com/openeuler-mirror/iSulad/blob/master/docs/images/performance_arm_seri.png" alt="ARM searially" style="zoom:80%;" />
+<img src="https://github.com/openeuler-mirror/iSulad/blob/master/docs/images/performance_arm_seri.png" alt="ARM searially" style="zoom:80%;width:400px;" />
 
 - 100个容器并行操作的情况下，`iSula`与`docker`、`podman`的性能对比雷达图如下：
 
-<img src="https://github.com/openeuler-mirror/iSulad/blob/master/docs/images/performance_arm_para.png" alt="ARM parallerlly" style="zoom:80%;" />
+<img src="https://github.com/openeuler-mirror/iSulad/blob/master/docs/images/performance_arm_para.png" alt="ARM parallerlly" style="zoom:80%;width:400px;" />
 
 ### X86
 
 - 10个容器串行操作的情况下，`iSula`与`docker`、`podman`的性能对比雷达图如下：
 
-<img src="https://github.com/openeuler-mirror/iSulad/blob/master/docs/images/performance_x86_seri.png" alt="X86 searially" style="zoom:80%;" />
+<img src="https://github.com/openeuler-mirror/iSulad/blob/master/docs/images/performance_x86_seri.png" alt="X86 searially" style="zoom:80%;width:400px;" />
 
 - 100个容器并行操作的情况下，`iSula`与`docker`、`podman`的性能对比雷达图如下：
 
-<img src="https://github.com/openeuler-mirror/iSulad/blob/master/docs/images/performance_x86_para.png" alt="X86 parallerlly" style="zoom:80%;" />
+<img src="https://github.com/openeuler-mirror/iSulad/blob/master/docs/images/performance_x86_para.png" alt="X86 parallerlly" style="zoom:80%;width:400px;" />
 
 **关于性能测试的更多信息请查看**  [Performance test](https://gitee.com/openeuler/iSulad/wikis/Performance?sort_id=5449355)。
 
